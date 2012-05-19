@@ -1,0 +1,8 @@
+%% -*- mode: erlang -*-
+{api_key,          ""}.
+{api_secret,       ""}.
+{token,            ""}.
+{token_secret,     ""}.
+{root,             ""}.
+{signature_method, hmac_sha1}.
+{timeout,          infinity}.
